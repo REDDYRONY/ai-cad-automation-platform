@@ -1,0 +1,10 @@
+{
+  "Component": "",
+  "ShaftDiameter": 25.0,
+  "Material": "Cast Iron",
+  "HousingLength": 75.0,
+  "HousingWidth": 50.0,
+  "HousingHeight": 50.0,
+  "MountingHoleDiameter": 10.0,
+  "MountingHoleCount": 4
+}
