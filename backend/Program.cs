@@ -11,6 +11,8 @@ builder.Services.AddScoped<backend.Services.WorkflowService>();
 
 builder.Services.AddScoped<backend.Services.ExportService>();
 
+builder.Services.AddScoped<backend.Services.OnshapePayloadService>();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
